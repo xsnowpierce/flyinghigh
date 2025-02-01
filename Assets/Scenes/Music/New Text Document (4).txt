@@ -1,0 +1,7 @@
+main menu (persona 4 - corner of memories)
+selet difficulty (persona q2 - tender feeling -inside the cinema)
+easy game (persona 3 - mass destruction)
+hard game (persona 3 - the battle for everyone's souls)
+results lost ()
+results tie (keep as lost)
+results win ()
